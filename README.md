@@ -2,4 +2,4 @@
 
 ## Screenshot
 
-[](https://raw.githubusercontent.com/arunabhdas/stackmvp/main/screenshot_1.png)
+![Screenshot](https://raw.githubusercontent.com/arunabhdas/stackmvp/main/screenshot_1.png)
