@@ -26,6 +26,7 @@
   }
 
 </script>
+<div class="main">
 <input placeholder="Stack Title" 
 type="text"
 value={title}
@@ -43,3 +44,26 @@ on:keyup={onTitleChange}
 </select>
 
 <button disabled={!title} on:click={submitStack}>Submit</button>
+</div>
+
+<style>
+  .main {
+    width: 100%;
+    display: flex;
+  }
+
+  .main input {
+    flex: 1
+  }
+
+  .main select {
+    width: 75px;
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+
+  .main button {
+    width: 75px;
+  }
+
+</style>
