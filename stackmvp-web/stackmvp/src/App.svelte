@@ -1,18 +1,21 @@
 <script>
+	import StackInput from "./StackInput.svelte";
 	export let name;
+	export let newProp;
+
+	const submitStack = stack => {
+		console.log(stack);
+	}
 </script>
 
-<main>
-	<h1>Hello {name}!</h1>
-	<p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p>
-</main>
+<div class="main">
+	<h1>StackMVP - Stacks for your apps</h1>
+	<StackInput on:submitStack={event => submitStack(event.detail.stack)}></StackInput>
 
+</div>
 <style>
-	main {
-		text-align: center;
-		padding: 1em;
-		max-width: 240px;
-		margin: 0 auto;
+	.main {
+
 	}
 
 	h1 {
@@ -22,9 +25,4 @@
 		font-weight: 100;
 	}
 
-	@media (min-width: 640px) {
-		main {
-			max-width: none;
-		}
-	}
 </style>
