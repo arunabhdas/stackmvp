@@ -30,7 +30,7 @@ npm install autoprefixer postcss-cli tailwindcss concurrently cross-env --save-d
 ### Create tailwind config
 
 ~~~
-	npx tailwind init
+npx tailwind init
 ~~~
 
 ## Develop
