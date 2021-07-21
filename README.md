@@ -9,13 +9,28 @@
 
 ## Steps
 
+### Initialize svelte project
 
-==> npx degit sveltejs/template stackmvp-site
+~~~
+npx degit sveltejs/template stackmvp-site
+~~~
 
-==> npm install
+### Run npm install
+~~~~
+npm install
+~~~
 
-==> npm install autoprefixer postcss-cli tailwindcss concurrently cross-env --save-dev
+### Install tailwindcsss and related packages
 
+~~~
+npm install autoprefixer postcss-cli tailwindcss concurrently cross-env --save-dev
+~~~
+
+### Create tailwind config
+
+~~~
+	npx tailwind init
+~~~
 
 ## Develop
 
