@@ -2,7 +2,9 @@
 
 ## Screenshot
 
-![Screenshot](https://raw.githubusercontent.com/arunabhdas/stackmvp/main/screenshot_1.png)
+![Screenshot](https://raw.githubusercontent.com/arunabhdas/stackmvp/main/screenshots/screenshot_1.png)
+
+![StackMVP-site](https://raw.githubusercontent.com/arunabhdas/stackmvp/main/screenshots/screenshot_2.png)
 
 
 ## Steps
