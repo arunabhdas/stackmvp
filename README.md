@@ -16,7 +16,8 @@ npx degit sveltejs/template stackmvp-site
 ~~~
 
 ### Run npm install
-~~~~
+
+~~~
 npm install
 ~~~
 
