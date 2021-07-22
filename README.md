@@ -33,7 +33,16 @@ npm install autoprefixer postcss-cli tailwindcss concurrently cross-env --save-d
 npx tailwind init
 ~~~
 
-## Develop
+### Develop
 
+~~~
 ==> cd stackmvp-site && npm run dev
+~~~~
+
+
+### Rebuild CSS
+
+~~~
+==> npm run build:css
+~~~ 
 
