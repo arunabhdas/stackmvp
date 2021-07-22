@@ -547,8 +547,8 @@ video {
   width: 100%;
   margin-right: auto;
   margin-left: auto;
-  padding-right: 2rem;
-  padding-left: 2rem;
+  padding-right: 0rem;
+  padding-left: 0rem;
 }
 
 @media (min-width: 640px) {
@@ -29812,8 +29812,8 @@ video {
     width: 100%;
     margin-right: auto;
     margin-left: auto;
-    padding-right: 2rem;
-    padding-left: 2rem;
+    padding-right: 0rem;
+    padding-left: 0rem;
   }
 
   @media (min-width: 640px) {
@@ -58974,8 +58974,8 @@ video {
     width: 100%;
     margin-right: auto;
     margin-left: auto;
-    padding-right: 2rem;
-    padding-left: 2rem;
+    padding-right: 0rem;
+    padding-left: 0rem;
   }
 
   @media (min-width: 640px) {
@@ -88136,8 +88136,8 @@ video {
     width: 100%;
     margin-right: auto;
     margin-left: auto;
-    padding-right: 2rem;
-    padding-left: 2rem;
+    padding-right: 0rem;
+    padding-left: 0rem;
   }
 
   @media (min-width: 640px) {
@@ -117298,8 +117298,8 @@ video {
     width: 100%;
     margin-right: auto;
     margin-left: auto;
-    padding-right: 2rem;
-    padding-left: 2rem;
+    padding-right: 0rem;
+    padding-left: 0rem;
   }
 
   @media (min-width: 640px) {
@@ -146460,8 +146460,8 @@ video {
     width: 100%;
     margin-right: auto;
     margin-left: auto;
-    padding-right: 2rem;
-    padding-left: 2rem;
+    padding-right: 0rem;
+    padding-left: 0rem;
   }
 
   @media (min-width: 640px) {
